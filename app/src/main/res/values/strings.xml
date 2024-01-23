@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomWithView</string>
+    <string name="content">content</string>
+    <string name="save">Save</string>
+    <string name="name">Name...</string>
+    <string name="profession">profession...</string>
+    <string name="empty_not_saved">not saved...</string>
+</resources>
